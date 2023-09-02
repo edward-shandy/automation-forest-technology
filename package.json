@@ -1,0 +1,15 @@
+{
+  "name": "automation-forest-technology",
+  "version": "1.0.0",
+  "description": "Automation forest technology website using mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.12.0"
+  }
+}
